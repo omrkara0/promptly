@@ -20,7 +20,11 @@ Promptly is an elegant, highly responsive Flutter application designed to transf
 *   **📤 Direct Actions:** 1-Click copy to clipboard or send directly to ChatGPT / Gemini apps via URL launchers.
 
 ## 📸 Screenshots
-*(You can add screenshots of your application here later)*
+<img width="1080" height="2424" alt="Screenshot_1772305312" src="https://github.com/user-attachments/assets/2291768f-6b1f-4fae-b72d-6b2385399e1d" />
+
+<img width="1080" height="2424" alt="Screenshot_1772305473" src="https://github.com/user-attachments/assets/9a9ef9dd-3e2d-4ef4-92ff-1cb83ec26222" />
+
+<img width="1080" height="2424" alt="Screenshot_1772305476" src="https://github.com/user-attachments/assets/dcbff9ac-f54b-4239-9dbb-7c71ef0abac6" />
 
 ## 🛠️ Tech Stack & Architecture
 
